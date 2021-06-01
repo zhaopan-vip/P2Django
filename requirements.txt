@@ -7,4 +7,4 @@ iso8601==0.1.12
 markdown2==2.3.5
 pytz==2018.4
 requests==2.19.1
-urllib3==1.23
+urllib3==1.26.5
